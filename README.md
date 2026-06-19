@@ -21,4 +21,3 @@ ask for disc
 <p align="center">
   <a href="https://pplejuice.atabook.org/">Sign my ata!!</a>
 </p>
-[Sign my ata!! ](https://pplejuice.atabook.org/)
