@@ -18,4 +18,4 @@ ask for disc
  <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/23c308b3-7a95-4b57-9973-4d875435b8ae" />
 </p>
 
-<div align="center">[Sign my ata!! ](https://pplejuice.atabook.org/)
+[Sign my ata!! ](https://pplejuice.atabook.org/)
