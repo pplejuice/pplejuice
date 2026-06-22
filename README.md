@@ -21,7 +21,4 @@ ask for disc
 <p align="center">
   <a href="https://pplejuice.atabook.org/">Sign my ata!!</a>
 </p>
-
-<p align="center">
-  <a href="![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pplejuice)"!</a>
-</p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pplejuice)
