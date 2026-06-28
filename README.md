@@ -12,7 +12,7 @@ AppleJuice
 w2i || 15
 
 <p align="center">
-ask for disc
+ask/whisp for disc
 
  <p align="center">
  <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/23c308b3-7a95-4b57-9973-4d875435b8ae" />
