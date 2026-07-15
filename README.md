@@ -20,4 +20,5 @@ ask/whisp for disc
 
 <p align="center">
   <a href="https://pplejuice.atabook.org/">Sign my ata!!</a>
+  <a href="https://yuunanun.carrd.co/">My carrd</a>
 </p>
