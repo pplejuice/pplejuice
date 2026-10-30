@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ko-fi.com/alexorier">Commission my friend :3 !!</a>
+  <a href="https://ko-fi.com/alexorier">Commission my friend !!</a>
 </p>
 
 
